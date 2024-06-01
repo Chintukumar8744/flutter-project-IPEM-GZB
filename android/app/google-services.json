@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250225617403",
+    "project_id": "ipemnotes2024",
+    "storage_bucket": "ipemnotes2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250225617403:android:37f6e51cad4c1b696bc35e",
+        "android_client_info": {
+          "package_name": "com.example.ipemnotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250225617403-f7amff5f3brn290d78bbkb9hik57d6dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ipemnotesapp",
+            "certificate_hash": "b67cb436d2974a3ef1a3fe8655b0d652b0439bdc"
+          }
+        },
+        {
+          "client_id": "250225617403-rmms8jg4huvp8bkvf3nf5cg16epi2fc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRREez-anfOwNGy-UZ_fViWJNHYta6j7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250225617403-rmms8jg4huvp8bkvf3nf5cg16epi2fc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
